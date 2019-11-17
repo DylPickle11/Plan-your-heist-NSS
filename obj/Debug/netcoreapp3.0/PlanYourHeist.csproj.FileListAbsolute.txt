@@ -1,0 +1,11 @@
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.deps.json
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.runtimeconfig.json
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.runtimeconfig.dev.json
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.dll
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/bin/Debug/netcoreapp3.0/PlanYourHeist.pdb
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.csprojAssemblyReference.cache
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.AssemblyInfoInputs.cache
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.AssemblyInfo.cs
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.dll
+/Users/dylpickle/Workspace/csharp/exercises/PlanYourHeist/obj/Debug/netcoreapp3.0/PlanYourHeist.pdb
